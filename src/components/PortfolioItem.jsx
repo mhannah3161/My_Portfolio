@@ -1,12 +1,13 @@
 import React from 'react';
 
+
 function PortfolioItem( {title, imgeUrl, stack, link} ) {
   return (
     <div className='border-2 border-stone-900 rounded-md'>
 
         <img
             src= {imgeUrl}
-            alt="porfolio"
+            alt="portfolio"
             className='w-full h-36 md:h-48 object-cover cursor-pointer'
         />
         <div className='w-full p-4'>

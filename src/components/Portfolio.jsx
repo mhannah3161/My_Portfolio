@@ -1,6 +1,7 @@
 import React from 'react';
 import portfolios from './Data/portfolios';
 import PortfolioItem from './PortfolioItem';
+
 function Portfolio() {
   return (
       <div className='flex flex-col md:flex-row items-center justify-center'>
