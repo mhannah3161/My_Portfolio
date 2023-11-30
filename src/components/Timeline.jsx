@@ -1,5 +1,5 @@
 import React from 'react';
-import timeline from './data/timeline';
+import timeline from './data/timeline.json';
 import TimelineItem from './TimelineItem';
 import Title from './Title';
 
