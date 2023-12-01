@@ -23,6 +23,9 @@ function Intro() {
         <a
         href='../../Resume.pdf'
         download={true}
+        target='_blank'
+        className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'
+        rel='noreferrer noopener'
         >
           resume.
         </a>{''}
