@@ -21,7 +21,7 @@ function Intro() {
         <br />
         Click to download my{' '}
         <a
-        href='./public/Resume.pdf'
+        href='../../Resume.pdf'
         download={true}
         >
           resume.
