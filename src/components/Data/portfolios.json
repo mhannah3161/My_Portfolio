@@ -1,19 +1,19 @@
 [
    {
     "title": "Magic the Gather Card Finder V.2",
-    "imgUrl": "./public/mtgv2.png",
+    "imgUrl": "../../mtgv2.png",
     "stack": ["HTML", "CSS", "JavaScript"],
     "link":"https://github.com/JacobCampa/Knockoff-Gatherer-2.0"
 },
 {
     "title": "Magic the Gather Card Finder V.1",
-    "imgUrl": "./public/MTGv1.png",
+    "imgUrl": "../../MTGv1.png",
     "stack": ["HTML", "CSS", "JavaScript"],
     "link":"https://anthonyciccone90.github.io/knockoff-gatherer/"
 },
 {
     "title": "Refactor SEO",
-    "imgUrl": "./public/Horiseon_Project.png",
+    "imgUrl": "../../Horiseon_Project.png",
     "stack": ["HTML", "CSS"],
     "link":"https://mhannah3161.github.io/week1-refactor-seo/"
 }
