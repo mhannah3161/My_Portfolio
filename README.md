@@ -1,11 +1,11 @@
 <div align="center">
 
 
-  <h2 align="center">Michael hannah - Personal Portfolio</h2>
+  <h2 align="center">Michael Hannah - Personal Portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using JSX, Vite, and TailwindCSS.
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://frolicking-swan-654416.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
