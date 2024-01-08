@@ -1,12 +1,10 @@
 [
     {
-        "year": "2023",
         "title": "Fullstack Web Developmnet Bootcamp",
         "duration": "6 months",
         "details": "Learn Fullstack Web Development with Node.js, React.js, Express.js, MongoDB, HTML, CSS, JavaScript, Bootstrap, Git, Github, Heroku, and more with a certificate from The University of Denver at the end."
     },
     {
-        "year": "2023",
         "title": "Freelance Web Developer",
         "duration": "Current",
         "details": "Build web apps for clients or self using HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Bootstrap, Git, Github, Heroku, and more."
