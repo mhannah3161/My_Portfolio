@@ -1,4 +1,10 @@
 [
+    {
+        "title": "Magic the Gather Card Finder V.3",
+        "imgUrl": "../../MTG3.png",
+        "stack": ["HTML", "CSS", "JavaScript"],
+        "link":"https://the-lorekeepers-library.onrender.com/"
+    },
    {
     "title": "Magic the Gather Card Finder V.2",
     "imgUrl": "../../mtgv2.png",
